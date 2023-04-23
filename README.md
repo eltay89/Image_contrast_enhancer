@@ -1,4 +1,4 @@
-# Image_contrast_enhancer
+# Image_Contrast_Enhancer
 
 A Python script using OpenCV and PIL libraries that will allow you to choose an image from your directory and enhance its contrast using three different techniques:
 
